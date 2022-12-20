@@ -1,13 +1,4 @@
- <h1 align="left" >🌍🌎🌏</h1>
 <img src="https://media.tenor.com/IvyuPtEfzhoAAAAM/matrix.gif " hight="600" width="600" >
-
-
-
-
-<!---
-collllinx/collllinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div id="badges" align="centerhttps://media.tenor.com/IvyuPtEfzhoAAAAM/matrix.gif ">
   <a href="https://www.linkedin.com/in/alister-collins-375236209">
     <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="25" width="25" />
